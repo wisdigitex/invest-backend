@@ -60,5 +60,9 @@ firebase-admin-sdk.json
 firebase-admin-sdk.json.json
 src/modules/firebase/firebase-admin-sdk.json
 src/modules/firebase/firebase-admin-sdk.json.json
+/uploads
+/uploads/**
+src/uploads
+**/uploads/**
 
 
